@@ -13,7 +13,7 @@ This repository serves as the anchor for my public technical work.
 - Systems and data fundamentals that support reliable AI tooling  
 - Methods that prioritize clarity, traceability, and durability  
 
-## Selected Work
+## Selected Public Work
 
 - **LLM Export Analytics**  
   Tooling for analyzing ChatGPT and Claude export data, designed with privacy, measurement, and future extensibility in mind.
