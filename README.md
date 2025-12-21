@@ -18,13 +18,7 @@ This repository serves as the anchor for my public technical work.
 - **LLM Export Analytics**  
   Tooling for analyzing ChatGPT and Claude export data, designed with privacy, measurement, and future extensibility in mind.
 
-- **Systems Programming (C++)**  
-  Work demonstrating low-level reasoning, program structure, and performance-aware design.
-
-- **Application and Data Development (Java, SQL)**  
-  Projects focused on object-oriented design, data modeling, and maintainable application architecture.
-
-Additional repositories may appear gradually as artifacts are completed and ready for long-term scrutiny.
+Additional repositories will appear gradually as artifacts are completed and ready for long-term scrutiny.
 
 ## Operating Principles
 
