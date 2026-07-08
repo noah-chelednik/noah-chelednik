@@ -1,30 +1,28 @@
-Noah T.G. Chelednik
+Noah T. G. Chelednik
 
-I work at the intersection of human reasoning and AI systems, with an emphasis on making large language model use legible, measurable, and dependable in real work.
+I build working tools with large language models and study how to make LLM use legible, measurable, and dependable in real work. My background combines humanities training with applied computer science. Rather than treating AI as a novelty or a shortcut, I focus on building, evaluation, documentation, and long-horizon human-AI collaboration.
 
-My background combines humanities training with applied computer science. Rather than treating AI as a novelty or shortcut, I focus on evaluation, documentation, verification, and long-horizon human–AI collaboration.
+This account anchors my public technical work. In plain terms: I use AI to build real things, and I document and measure the work so it holds up to scrutiny.
 
-This repository serves as the anchor for my public technical work.
 
-## Focus Areas
+Focus areas
 
-- Analysis and evaluation of LLM usage and behavior  
-- Design of human–AI workflows that can be understood and audited  
-- Systems and data fundamentals that support reliable AI tooling  
-- Methods that prioritize clarity, traceability, and durability  
+  Building applied tools and automations with LLMs
+  Analysis and evaluation of LLM usage and behavior
+  Human-AI workflows that can be understood and audited
+  Methods that prioritize clarity, traceability, and durability
+    
 
-## Selected Public Work
+Selected public work
 
-- **LLM Export Analytics**  
-  Tooling for analyzing ChatGPT and Claude export data, designed with privacy, measurement, and future extensibility in mind.
+  LLM Export Analytics: tooling for analyzing ChatGPT and Claude export data, built with privacy, measurement, and reproducibility in mind. Includes a published methodology.
+  VCAT: a structured-data toolkit for the Voynich Manuscript, with automated test coverage. Published on GitHub and Hugging Face.
+  The Muser: an open-source natural-language music composition system in Python that orchestrates multiple AI models through an agent loop. MIT licensed.
 
-Additional repositories will appear gradually as artifacts are completed and ready for long-term scrutiny.
+  
+Operating principles
 
-## Operating Principles
-
-- Clarity over cleverness  
-- Measurement before claims  
-- Documentation as a first-class artifact  
-- Build for durability, not visibility  
-
-This account is intentionally curated. Empty space is part of the design.
+  Clarity over cleverness
+  Measurement before claims
+  Documentation as a first-class artifact
+  Build for durability, not visibility
