@@ -1,6 +1,6 @@
 ## Noah Chelednik
 
-## Founder, Chedai LLC. Comprehensive designer: publishing systems, dataset construction, and human–AI workflow architecture as one integrated practice.
+## Founder, Chedai LLC. Comprehensive Designer: publishing systems, dataset construction, and human–AI workflow architecture as one integrated practice.
 
 I build working systems with large language models and document them so the work holds up to scrutiny. Local inference, deterministic validation, measurement before claims.
 
