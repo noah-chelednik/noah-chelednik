@@ -22,4 +22,7 @@ Methods that prioritize clarity, traceability, and durability
 - Documentation as a first-class artifact
 - Build for durability, not visibility
 
-- -N. Chelednik, Printer
+
+
+
+## N. Chelednik, Printer
