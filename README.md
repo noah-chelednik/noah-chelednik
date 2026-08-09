@@ -1,17 +1,17 @@
-## Noah T. G. Chelednik
+Noah Chelednik
 
-I build working tools with large language models and study how to make LLM use legible, measurable, and dependable in real work. My background combines humanities training with applied computer science. Rather than treating AI as a novelty or a shortcut, I focus on building, evaluation, documentation, and long-horizon human-AI collaboration.
+Founder, Chedai LLC. Comprehensive designer: publishing systems, dataset construction, and human–AI workflow architecture as one integrated practice.
 
-This account anchors my public technical work. In plain terms: I use AI to build real things, and I document and measure the work so it holds up to scrutiny.
+I build working systems with large language models and document them so the work holds up to scrutiny. Local inference, deterministic validation, measurement before claims.
 
-### Focus areas
+Focus areas
 
-- Building applied tools and automations with LLMs
-- Analysis and evaluation of LLM usage and behavior
-- Human-AI workflows that can be understood and audited
-- Methods that prioritize clarity, traceability, and durability
+Local-inference publishing and dataset pipelines
+Deterministic validation of model output
+Human–AI workflows that can be understood and audited
+Methods that prioritize clarity, traceability, and durability
 
-### Selected public work
+### Selected open source public work
 
 - **LLM Export Analytics**: tooling for analyzing ChatGPT and Claude export data, built with privacy, measurement, and reproducibility in mind. Includes a published methodology.
 - **VCAT**: a structured-data toolkit for the Voynich Manuscript, with automated test coverage. Published on GitHub and Hugging Face.
