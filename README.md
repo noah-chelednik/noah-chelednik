@@ -3,7 +3,7 @@
   Software engineer. I work mainly in Python, with Java, C++, SQL and shell, and I build data tooling with tests that show it
   works.
 
-  Proprietress of Spring Witch Software LLC and Princeps of Chedai LLC:
+  Princeps of Chedai & Proprietress of Spring Witch Software
 
   - Spring Witch Software LLC, a Florida limited liability company, formed October 2026.
   - Chedai LLC, a Florida limited liability company, formed July 2026.
