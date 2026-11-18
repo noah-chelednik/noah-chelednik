@@ -1,31 +1,41 @@
-## Founder, Chedai LLC. Comprehensive Designer: publishing systems, dataset construction, and human–AI workflow architecture as one integrated practice.
+# Noah Chelednik
 
-I build working systems with large language models and document them so the work holds up to scrutiny. Local inference, deterministic validation, measurement before claims.
+  Software engineer. I work mainly in Python, with Java, C++, SQL and shell, and I build data tooling with tests that show it
+  works.
 
-Focus areas
+  Proprietress of Spring Witch Software LLC and Princeps of Chedai LLC:
 
-Local-inference publishing and dataset pipelines
-Deterministic validation of model output
-Human–AI workflows that can be understood and audited
-Methods that prioritize clarity, traceability, and durability
+  - Spring Witch Software LLC, a Florida limited liability company, formed October 2026.
+  - Chedai LLC, a Florida limited liability company, formed July 2026.
 
-### Selected open source public work
+  ## Public projects
 
-- **LLM Export Analytics**: tooling for analyzing ChatGPT and Claude export data, built with privacy, measurement, and reproducibility in mind. Includes a published methodology.
-- **VCAT**: a structured-data toolkit for the Voynich Manuscript, with automated test coverage. Published on GitHub and Hugging Face.
-- **The Muser**: an open-source natural-language music composition system in Python that orchestrates multiple AI models through an agent loop. MIT licensed.
+  ### [The Muser](https://github.com/noah-chelednik/the-muser)
 
-### Operating principles
+  Natural-language music composition, run locally. About 18,000 lines of Python source; 291 test functions. Default
+  generation paths use permissively licensed components; see the project's legal notes.
 
-- Clarity over cleverness
-- Measurement before claims
-- Documentation as a first-class artifact
-- Build for durability, not visibility
+  Demo: [Ched-ai/the-muser](https://huggingface.co/spaces/Ched-ai/the-muser) on Hugging Face.
 
+  ### [VCAT](https://github.com/noah-chelednik/voynich-data)
 
+  Parser for IVTFF transcription files, with validators and builders, publishing four validated datasets on Hugging Face
+  under CC BY 4.0; code under MIT; errors found after release are published as an erratum. It has an automated test suite.
 
+  Dataset: [Ched-ai/voynich-eva](https://huggingface.co/datasets/Ched-ai/voynich-eva).
 
+  ### [llm-export-analytics](https://github.com/noah-chelednik/llm-export-analytics)
 
+  A local toolkit for analysing ChatGPT and Claude data exports. 49 automated tests.
 
+  ## Credentials
 
-## -N. Chelednik, Printer
+  - B.A. History and B.A. Political Science, Flagler College.
+  - B.S. Computer Science candidate, Western Governors University (in progress).
+  - LPI Linux Essentials.
+
+  ## Elsewhere
+
+  - Website: https://noahchelednik.com
+  - LinkedIn: https://www.linkedin.com/in/noah-chelednik-320759165/
+  - Hugging Face: https://huggingface.co/Ched-ai
