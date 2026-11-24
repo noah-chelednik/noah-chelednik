@@ -8,6 +8,9 @@ Proprietress of Spring Witch Software
 Surveyor-General of the Magonia Cadastre
 
 
+
+
+
   Software engineer. I work mainly in Python, with Java, C++, SQL and shell, and I build data tooling with tests that show it
   works.
 
