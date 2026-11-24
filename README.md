@@ -37,11 +37,10 @@ Surveyor-General of the Magonia Cadastre
 
   A local toolkit for analysing ChatGPT and Claude data exports. 49 automated tests.
 
-  ## Credentials
+  ## Formal Credentials
 
   - B.A. History and B.A. Political Science, Flagler College.
   - B.S. Computer Science candidate, Western Governors University (in progress).
-  - LPI Linux Essentials.
 
   ## Elsewhere
 
