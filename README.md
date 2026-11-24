@@ -1,11 +1,5 @@
 # Noah Chelednik
-Princeps of Chedai
-
-
-Proprietress of Spring Witch Software
-
-
-Surveyor-General of the Magonia Cadastre
+Princeps of Chedai -- Proprietress of Spring Witch Software -- Surveyor-General of the Magonia Cadastre
 
 
 
