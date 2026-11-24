@@ -1,9 +1,10 @@
 # Noah Chelednik
+Princeps of Chedai
+Proprietress of Spring Witch Software
+Surveyor-General of the Magonia Cadastre
 
   Software engineer. I work mainly in Python, with Java, C++, SQL and shell, and I build data tooling with tests that show it
   works.
-
-  Princeps of Chedai & Proprietress of Spring Witch Software
 
   - Spring Witch Software LLC, a Florida limited liability company, formed October 2026.
   - Chedai LLC, a Florida limited liability company, formed July 2026.
